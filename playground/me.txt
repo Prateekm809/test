@@ -1,9 +1,0 @@
-{{#user}}
-
-Name: Prateek Kumar
-
-Skills: HTML, CSS, JS
-
-Email: pm6837759@gmail.com
-
-{{/user}}
